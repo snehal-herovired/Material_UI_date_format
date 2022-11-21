@@ -1,0 +1,25 @@
+{
+  "name": "hfyegx--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@mui/material": "5.10.14",
+    "@mui/x-date-pickers": "5.0.8",
+    "dayjs": "1.11.6",
+    "@mui/x-date-pickers-pro": "5.0.8",
+    "@emotion/react": "11.10.5",
+    "@emotion/styled": "11.10.5",
+    "date-fns": "2.29.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
